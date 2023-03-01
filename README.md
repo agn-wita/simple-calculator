@@ -4,7 +4,7 @@ By clicking one of four button user can perform arithmetic operation on 2 number
 
 ## JAVASCRIPT
 - two const variables
-- onclick functions linked with buttons: add, substract, divide, multiply
+- the onclick event executes a certain functionality (add, substract, divide, multiply) when a button is clicked
 
 ## Stage of the project: completed
 
